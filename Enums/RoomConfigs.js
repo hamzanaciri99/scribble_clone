@@ -1,0 +1,6 @@
+module.exports = {
+  DEFAULT_MAX_PLAYERS: 2,
+  DEFAULT_MAX_ROUNDS: 3,
+  DEFAULT_MAX_TIME: 30,
+  
+}
